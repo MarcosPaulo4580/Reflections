@@ -1,5 +1,5 @@
 Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
-	Eu gostaria de usar um repositório remoto, ao invés de manter o trabalho local, em momentos em que eu estiver trabalhando em um projeto 
+  Eu gostaria de usar um repositório remoto, ao invés de manter o trabalho local, em momentos em que eu estiver trabalhando em um projeto 
   com várias pessoas que estão em outra parte do mundo. Usando o repositório remoto, eu posso compartilhar as alterações feitas por mim no 
   projeto com os outros contribuintes do projeto e eles podem compartilhar as alterações feitas por eles comigo. Ou seja, o uso do 
   repositório remoto serve principalmente para quando o trabalho é compartilhado.
@@ -9,3 +9,15 @@ Por que você prefere efetuar pull de alterações manualmente do que deixar o G
   trabalhando em um projeto compartilhado, é preciso verificar antes se a alteração feita por um contribuinte foi necessária, se foi
   algo relevante ao projeto, se sim, eu efetuo o pull de alterações, se não, eu não atualizo o meu repositório local com os commits feitos
   pelo contribuinte. O pull de alterações feito manualmente evita criações de commits desnecessários em meu repositório local.
+  
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+  A bifurcação permite que eu faça uma cópia do repositório de uma pessoa diretamente nos servidores do github. Já a clonagem de um repo-
+  sitório permite que eu faça uma cópia do repositório de uma pessoa diretamente para a minha máquina e não para o meu github, se eu qui-
+  ser colocar esse novo repositório na minha conta do github é necessário que eu aplique um push nesse repositório clonado que está em 
+  minha máquina. Ou seja, a bifurcação copia o repositório copia o repositório de outra pessoa direto para o meu github, enquanto que os 
+  clones copiam para a minha máquina. Já os branches são repositórios que podem estar tanto na minha máquina quando no github e que pos-
+  suem vários commmits criados por mim ou por outra pessoa que está trabalhando em um mesmo projeto que eu. Eu usaria uma bifurcação
+  quando eu quisesse copiar o repositório de uma pessoa para o meu github e fazer commits nesse repositório utilizando o próprio editor
+  do github, pois com essa intenção, não é necessário que eu copie o repositório para a minha máquina. Porém quando quero editar o códi-
+  go de um programa que está em um repositório de outra pessoa, eu uso o clone, pois para editar esse código é melhor usar o editor da
+  minha máquina.
