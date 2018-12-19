@@ -21,3 +21,4 @@ Segurança com o controle de versão
 Como você quer usar o Git?
 	Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
 	Quero usar o git principalmente para comparar versões de um mesmo programa meu quando, após eu fazer uma alteração, eu encontrar algum bug, pois com os recursos do Git fica muito mais fácil fazer comparações entre diferentes versões de um arquivo afim de consertar bugs e erros, usando os comandos git log, git diff e git checkout principalmente. Ou seja, o Git me permite programar de forma mais livre para testar novas ideias em meu código sem medo de perder todo o trabalho, graças aos recursos disponibilizados para verificar e comparar versões anteriores do arquivo de forma rápída e eficiente, sem precisar fazer tudo manualmente.
+	
