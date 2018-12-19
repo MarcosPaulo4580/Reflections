@@ -44,3 +44,4 @@ Quando você gostaria de fazer alterações em um branch separado, e não direta
  do trabalho feito no branch master. Portanto o benefício do master é que ele deve ser usado quando se está trabalhando em algo oficial
  do projeto ou algo que o colaborador tem certeza que vai dar certo, enquanto que um branch separado tem o benefício de permitir a cri-
  ação de versões alternativas do projeto e de testes de ideias incertas sem afetar o trabalho principal contido no branch master.
+ 
