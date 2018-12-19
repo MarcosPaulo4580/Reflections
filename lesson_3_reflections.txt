@@ -34,5 +34,5 @@ Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais di
   projeto. Dessa forma ficaria mais difícil testar novas ideias no projeto e versões alternativas do mesmo, pois não teria como eu criar
   ramificações sem alterar o projeto principal. O mais fácil seria a forma com que os projetos seriam enviados, pois é muito mais fácil 
   mandar um arquivo anexado por email do que utilizar push para mandar os commits do repositório da máquina para o repositório remoto no
-  Github. Mas depois que se aprender a usar o Git e o Github a colaboração se torna muito mais fácil e eficiente.
+  Github. Mas depois que se aprende a usar o Git e o Github a colaboração se torna muito mais fácil e eficiente.
 
