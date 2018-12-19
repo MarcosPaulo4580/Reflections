@@ -36,3 +36,11 @@ Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais di
   mandar um arquivo anexado por email do que utilizar push para mandar os commits do repositório da máquina para o repositório remoto no
   Github. Mas depois que se aprende a usar o Git e o Github a colaboração se torna muito mais fácil e eficiente.
 
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+ Eu gostaria de fazer alterações em um branch separado na seguinte situação: quando quero testar uma ideia em um codigo de um pro-
+ grama que estou fazendo e não sei se ela vai funcionar, então para não afetar de forma negativa (se a ideia não funcionar) o master, 
+ eu faço este teste em uma versão alternativa do projeto em outro branch, se a ideia que eu testei funcionar, eu aplico ela no master
+ depois. Desta forma, eu posso ficar testando versões alternativas do meu projeto sem ficar preocupado se vou perder todo o progresso
+ do trabalho feito no branch master. Portanto o benefício do master é que ele deve ser usado quando se está trabalhando em algo oficial
+ do projeto ou algo que o colaborador tem certeza que vai dar certo, enquanto que um branch separado tem o benefício de permitir a cri-
+ ação de versões alternativas do projeto e de testes de ideias incertas sem afetar o trabalho principal contido no branch master.
