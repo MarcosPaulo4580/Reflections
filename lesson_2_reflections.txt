@@ -18,3 +18,4 @@ Qual é o resultado da mesclagem de dois branches? Por que o representamos no di
 
 Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
 	A mesclagem automática do Git tem vantagem sobre a mesclagem manual quando não há conflito entre dois branches, ou seja, quando não são feitas diferentes alterações em uma mesma parte do código em branches diferentes que serão mesclados, pois quando há esse tipo de conflito, a mesclagem manual se torna mais eficiente, porque o Git não consegue adivinhar qual dos dois commits dos branches em conflito deve ser mantido e qual deve ser excluído, portanto quem deve determinar isso é o usuário (programador) de forma manual.
+							
