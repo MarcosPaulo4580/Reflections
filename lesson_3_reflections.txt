@@ -3,3 +3,9 @@ Quando gostaria de usar um repositório remoto em vez de manter o trabalho local
   com várias pessoas que estão em outra parte do mundo. Usando o repositório remoto, eu posso compartilhar as alterações feitas por mim no 
   projeto com os outros contribuintes do projeto e eles podem compartilhar as alterações feitas por eles comigo. Ou seja, o uso do 
   repositório remoto serve principalmente para quando o trabalho é compartilhado.
+  
+Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+  Eu prefiro efetual pull de alterações manualmente do que deixar o Git atualizar-se automaticamente, pois muitas vezes quando se está 
+  trabalhando em um projeto compartilhado, é preciso verificar antes se a alteração feita por um contribuinte foi necessária, se foi
+  algo relevante ao projeto, se sim, eu efetuo o pull de alterações, se não, eu não atualizo o meu repositório local com os commits feitos
+  pelo contribuinte. O pull de alterações feito manualmente evita criações de commits desnecessários em meu repositório local.
