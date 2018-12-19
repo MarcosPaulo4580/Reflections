@@ -21,3 +21,10 @@ Descreva as diferenças entre bifurcações, clones e branches. Quando você usa
   do github, pois com essa intenção, não é necessário que eu copie o repositório para a minha máquina. Porém quando quero editar o códi-
   go de um programa que está em um repositório de outra pessoa, eu uso o clone, pois para editar esse código é melhor usar o editor da
   minha máquina.
+  
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+  O benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente é que se você for trabalhar no projeto em um
+  local onde não há acesso a internet, vc pode trabalhar a partir do commit mais atual realizado por vc ou por outros contribuintes, ou
+  seja, ter uma cópia do último estado conhecido do remoto armazenado localmente permite que o contribuinte trabalhe na versão mais atual
+  do projeto em sua própria máquina sem precisar ter acesso à internet.
+
